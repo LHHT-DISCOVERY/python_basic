@@ -1,0 +1,1 @@
+print by print function, huu tri yeu nguyen thi mi lin 
