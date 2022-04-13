@@ -45,4 +45,4 @@ while True:
 
     robot_mouth.say(robot_brain)
     robot_mouth.runAndWait()
-    # code with Lý Huỳnh Hữu TRí 
+    # code with Lý Huỳnh Hữu Trí

@@ -1,6 +1,6 @@
 print("\n\n") 
 print("\t\t\t----- CODE PYTHON BASIC -----\n\n")
-# kieu so trong python
+# kieu so trong pythonn
 print("----------------------------------------------------------------------------------------------------------------")
 print("\tI. KIỂU SỐ TRONG PYTHON\t(line 5)\n")
 a=4;b=9.6;c =0.12345678910111213141516
