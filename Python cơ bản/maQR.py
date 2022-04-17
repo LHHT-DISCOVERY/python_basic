@@ -1,0 +1,12 @@
+import qrcode
+qr1 = qrcode.QRCode(version = 1 , box_size = 10 , border = 5)
+qr2 = qrcode.QRCode(version = 1 , box_size = 10 , border = 5)
+# qr.add.data(txt)
+qr1.make(fit = True)
+qr2.make(fit = True)
+img1 = qr1.make_image(fill_color = 'black', back_color = 'white')
+img2 = qr2.make_image(fill_color = 'black', back_color = 'white')
+img1 = qrcode.make(" Sang yêu Lin nhiều lắm ")
+img2 = qrcode.make("""https://www.facebook.com/lyshuynhshuustris.tris""")
+img1.save("My_Sang.png")
+img2.save("My_Tri.png")
