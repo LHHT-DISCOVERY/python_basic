@@ -38,7 +38,7 @@ print(cut_1)
 # HÀM LEN
 vd_1 = [1,2,3,4,5]
 vd1 = len(vd_1)
-print("chiều dài cảu mảng là : " ,vd1)
+print("chiều dài của mảng là : " ,vd1)
 print ("""
        ----- Bài Tập ------
        https://www.teclado.com/30-days-of-python/python-30-day-7-split-join

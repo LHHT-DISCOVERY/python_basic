@@ -53,7 +53,7 @@ while(1):
             print("bạn đã chọn thoát chương trình ")
             break 
         else: 
-            print (" bạn đang tấn công hệ thống ")
+            print (" WRRINGGGGGG !!!!!! CẢNH BÁO ĐANG TẤN CÔNG HỆ THỐNG ")
             break
     elif tong % 10 != 0 :
         print(" số tài khoản không hợp lệ , vui lòng bấm số 1 để thoát , bấm số 2 để tiếp tục ")
@@ -65,7 +65,7 @@ while(1):
             print("bạn đã chọn thoát chương trình ")
             break
         else :
-            print("bạn đang tấn công hệ thống ")
+            print(" WRRINGGGGGG !!!!!! CẢNH BÁO ĐANG TẤN CÔNG HỆ THỐNG")
             break
         
         

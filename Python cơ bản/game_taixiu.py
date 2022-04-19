@@ -1,7 +1,7 @@
 from tkinter import * 
 import random
 
-random.seed(69969669)
+random.seed()
 root = Tk()
 
 root.title("xóc đĩa CHẴN LẺ chơi lỗ tụt quần !")
